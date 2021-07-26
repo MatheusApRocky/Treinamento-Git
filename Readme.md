@@ -2,4 +2,4 @@ Aqui é apenas uma treinmanto para aprender e fixar os conceitos de Git (corrigi
 
 V2, 2° commit (Apenas para ter um "Treinamntoe v2")
 
-V3, Configurando o repositorio remotoclea
+V3, Configurando o repositorio remoto
