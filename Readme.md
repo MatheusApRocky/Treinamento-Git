@@ -7,3 +7,5 @@ V3, Configurando o repositorio remoto
 V4, Adicionar um aquivo em um commit já realizado 
 
 v5, Modificando arquivo que foi baixando e subindo novamente com as alterações
+
+nova branch adcionanda 
