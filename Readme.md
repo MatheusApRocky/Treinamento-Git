@@ -2,10 +2,8 @@ Aqui é apenas uma treinmanto para aprender e fixar os conceitos de Git (corrigi
 
 V2, 2° commit (Apenas para ter um "Treinamntoe v2")
 
-<<<<<<< HEAD
 V3, Configurando o repositorio remoto
 
 V4, Adicionar um aquivo em um commit já realizado 
-=======
-V3, Configurando o repositorio remoto
->>>>>>> 7505861de7596afe1932154c7b53e0b702c3325e
+
+v5, Modificando arquivo que foi baixando e subindo novamente com as alterações
