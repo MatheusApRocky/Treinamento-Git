@@ -15,3 +15,5 @@ mais uma branch
 Commit B4 B5 
 
 aqui vai uma nova branch
+
+agora que foi dado um rebase, vamos subir o arquivo
