@@ -23,3 +23,6 @@ não foi vamos tentar donovo
 Escrever um pouco pra committed
 
 adciocionado com rebase
+
+
+Usando o stash
